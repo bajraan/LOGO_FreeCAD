@@ -1,14 +1,6 @@
 <!-- Begin README -->
 
-<div style="text-align:center">
-
 # FreeCAD LOGO
-# designed by BaJRan
-
-</div>
-</br>
-</br>
-
 
 <p align="center">
     <img src=
