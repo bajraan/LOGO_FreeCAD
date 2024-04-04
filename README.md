@@ -1,11 +1,11 @@
 <!-- Begin README -->
 
-<center>
+<div style="text-align:center">
 
 # FreeCAD LOGO
 # designed by BaJRan
 
-</center>
+</div>
 </br>
 </br>
 
