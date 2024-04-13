@@ -26,6 +26,16 @@
 </br>
 </br>
 
+# Proportions
+
+<p align="center">
+    <img src=
+    "docs\images\FreeCAD LOGO V4 Dimensions exp.svg" />
+    </br>
+    </br>
+</p>
+</br>
+
 # History
 
 <p align="center">
